@@ -1,4 +1,4 @@
-# View project on <a href="https://headerparser1-project.glitch.me/" target="_blank">Glitch</a>.
+# View project on [Glitch](https://headerparser1-project.glitch.me/).
 
 # Project: Request Header Parser Microservice for freeCodeCamp
 
